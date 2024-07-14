@@ -8,7 +8,8 @@ With a total of 9 roles, including donors, patients, and administrators, our sys
 Enterprise administrators play a crucial role in day-to-day operations, creating credentials and maintaining compliance. Our robust structure fosters effective collaboration, connecting patients with doctors within our network for timely treatments. This system, built on approval, availability, and diverse roles, aims to make a significant impact on lives through efficient bone marrow donations. Together, we strive to save lives and create a positive impact in the field of medical treatment.
 
 ### Technologies used:
-The code is full done on Apache Net Beans using Java programming Language
+The code is completely done on Apache Net Beans using JAVA programming Language.
+
 
 ### Enterprises Included:
 1. Hospital
