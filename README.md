@@ -64,3 +64,12 @@ Leukemia Center Coordinator:
 Legal Officer:
 - Receives work requests for a transplant from the Leukemia Center Coordinator.
 - Reviews the decision and decides to approve or reject it based on legal considerations.
+
+
+## Landing Page:
+
+<img width="1440" alt="Screenshot 2024-07-14 at 5 09 31 PM" src="https://github.com/user-attachments/assets/78b8f373-beff-4696-894c-d29594718b01">
+
+
+## Managing Admin Panel
+<img width="1440" alt="Screenshot 2024-07-14 at 5 26 17 PM" src="https://github.com/user-attachments/assets/2a40cdbe-bfa0-41d9-8999-2e79975926d4">
