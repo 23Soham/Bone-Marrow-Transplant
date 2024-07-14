@@ -7,6 +7,9 @@ Welcome to our Bone Marrow Transplant - an innovative platform connecting donors
 With a total of 9 roles, including donors, patients, and administrators, our system prioritizes eligibility and consent, guaranteeing the safety of all parties. The approval process ensures adherence to established protocols. The network comprises 5 enterprises and 7 organizations, contributing to a well-coordinated effort in promoting bone marrow donations.
 Enterprise administrators play a crucial role in day-to-day operations, creating credentials and maintaining compliance. Our robust structure fosters effective collaboration, connecting patients with doctors within our network for timely treatments. This system, built on approval, availability, and diverse roles, aims to make a significant impact on lives through efficient bone marrow donations. Together, we strive to save lives and create a positive impact in the field of medical treatment.
 
+### Technologies used:
+The code is full done on Apache Net Beans using Java programming Language
+
 ### Enterprises Included:
 1. Hospital
 2. Bone Marrow Facility
@@ -66,7 +69,7 @@ Legal Officer:
 - Reviews the decision and decides to approve or reject it based on legal considerations.
 
 
-## Landing Page:
+### Landing Page:
 
 <img width="1440" alt="Screenshot 2024-07-14 at 5 09 31 PM" src="https://github.com/user-attachments/assets/78b8f373-beff-4696-894c-d29594718b01">
 
